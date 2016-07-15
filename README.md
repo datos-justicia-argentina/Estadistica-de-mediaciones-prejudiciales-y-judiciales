@@ -12,14 +12,16 @@ En este cuerpo de datos se detalla la cantidad de mediaciones prejudiciales y ju
 * Responsable: Ministerio de Justicia y Derechos Humanos. Subsecretaría de Acceso a la Justicia. Dirección Nacional de Mediación y Métodos Participativos de Resolución de Conflictos.
 * Grupo: Acceso a la Justicia
 * Frecuencia de Actualización: Mensual
+
 ##Recursos
-Mediaciones prejudiciales y judiciales
+###Mediaciones prejudiciales y judiciales
 * Nombre: mediaciones Prejudiciales y Judiciales
 * Descripción: Mediaciones prejudiciales y judiciales registradas en el Sistema MEPRE.
 * Formato: CSV
 * Rango temporal: 01/02/2014 al 30/05/2016
 * Fecha de Actualización: 30/05/2016
-## Campos del recurso
+
+###Campos del recurso
 * anio (int): Año de inicio de la mediación.
 * mes (int): Mes de inicio de la mediación.
 * instancia (string): Prejudicial o Judicial.
@@ -44,5 +46,6 @@ Mediaciones prejudiciales y judiciales
 - No se medió por ausencia del requirente notificado - (Consignar datos de las notificación)
 - No se medió por plantearse la recusación al Mediador
 * cantidad (int): Cantidad de mediaciones efectuadas.
-## Notas
-La Ley 26.589, sancionada el 15 de abril de 2010 y promulgada el 3 de mayo de 2010,  establece la obligatoriedad de la mediación previa a los procesos judiciales. 
+
+##Notas
+La [Ley 26.589] (http://www.jus.gob.ar/media/157534/Ley%2026589.pdf), sancionada el 15 de abril de 2010 y promulgada el 3 de mayo de 2010,  establece la obligatoriedad de la mediación previa a los procesos judiciales. 
