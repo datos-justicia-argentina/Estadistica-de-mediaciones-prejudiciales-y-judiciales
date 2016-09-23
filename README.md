@@ -1,4 +1,4 @@
-#Estadística de Mediaciones prejudiciales y judiciales Ley 26.589
+#Estadística de Mediaciones prejudiciales y judiciales. Ley 26.589
 La mediación es un método que permite la resolución de los conflictos de manera pacífica, a través del diálogo, en el que el mediador como tercero neutral acompaña a las partes para que, como protagonistas del procedimiento, encuentren las soluciones que les resulten más beneficiosas a sus intereses.
 
 Las mediaciones pueden ser públicas, donde el mediador es sorteado por la cámara correspondiente, o privadas, donde el mediador es elegido por las partes a propuesta de quien inicia el reclamo. En ambos casos el mediador debe estar matriculado en el Registro Nacional de Mediación. También se encuentra la posibilidad de realizar mediaciones gratuitas, en el Centro de Prevención y Resolución de Conflictos dependiente del Ministerio de Justicia y Derechos Humanos. El acuerdo de partes en una mediación es asimilable en sus efectos a la cosa juzgada. Si no se llegase a un acuerdo, el acta de mediación habilita la vía judicial.
