@@ -33,20 +33,20 @@ En este cuerpo de datos se detalla la cantidad de mediaciones prejudiciales y ju
 * **tipoMediacion (string):** Pública (mediador por sorteo), privada (mediador elegido por las partes) o gratuita (efectuadas en el Centro de Mediación dependiente del Ministerio de Justicia y Derechos Humanos).
 * **estado (string):** La mediación puede estar Iniciada, Anulada, Pendiente de conciliación de pago, en proceso, finalizada, desistida previo primera audiencia.
 * **resultado (string):** Los resultados posibles son: 
-- -Se medió con acuerdo parcial
-- -Se medió y continúa
-- -No se medió por ausencia del requirente y requerido notificados (consignar datos de la notificación)
-- -Se medió con acuerdo total
-- -No se medió por imposibilidad de notificar – (Consignar datos de la notificación)
-- -Desistida por la parte requirente
-- -No corresponde
-- -No se medió por excusarse el Mediador
-- -Se medió sin acuerdo
-- -No se medió por ausencia del requerido notificado - (Consignar datos de las notificación)
-- -No se medió por imposibilidad legal (Art, 5 Ley N° 26.589)
-- -No se medió por rehusarse el Mediador
-- -No se medió por ausencia del requirente notificado - (Consignar datos de las notificación)
-- -No se medió por plantearse la recusación al Mediador
+	- Se medió con acuerdo parcial
+	- Se medió y continúa
+	- No se medió por ausencia del requirente y requerido notificados (consignar datos de la notificación)
+	- Se medió con acuerdo total
+	- No se medió por imposibilidad de notificar – (Consignar datos de la notificación)
+	- Desistida por la parte requirente
+	- No corresponde
+	- No se medió por excusarse el Mediador
+	- Se medió sin acuerdo
+	- No se medió por ausencia del requerido notificado - (Consignar datos de las notificación)
+	- No se medió por imposibilidad legal (Art, 5 Ley N° 26.589)
+	- No se medió por rehusarse el Mediador
+	- No se medió por ausencia del requirente notificado - (Consignar datos de las notificación)
+	- No se medió por plantearse la recusación al Mediador
 * **cantidad (int):** Cantidad de mediaciones efectuadas.
 
 ##Notas
