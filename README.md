@@ -8,7 +8,7 @@ Las mediaciones pueden ser públicas, donde el mediador es sorteado por la cáma
 En este cuerpo de datos se detalla la cantidad de mediaciones prejudiciales y judiciales (las ordenadas por el Juez una vez iniciado el juicio) que están registradas a través del Sistema Mepre, el cual está operativo desde febrero de 2014. El sistema es de uso obligatorio para los mediadores para registrar y emitir actas de mediaciones prejudiciales.
 
 ##Características
-* 	**Fecha de Publicación:**DD/MM/AAAA
+*   **Fecha de Publicación:** 12/07/2016
 *   **Recurso:** Mediaciones prejudiciales y judiciales
 *   **Tags o Etiquetas:** Mediación, Resolución alternativa de Conflictos, prejudicial.
 *   **Organización:** Ministerio de Justicia y Derechos Humanos. Subsecretaría de Acceso a la Justicia. Dirección Nacional de Mediación y Métodos Participativos de Resolución de Conflictos.
