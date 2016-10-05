@@ -25,13 +25,13 @@ En este cuerpo de datos se detalla la cantidad de mediaciones prejudiciales y ju
 *   **Rango temporal:** 01/02/2014 al 30/05/2016
 
 ###Campos del recurso
-*   **anio (int):** Año de inicio de la mediación.
+* **anio (int):** Año de inicio de la mediación.
 * **mes (int):** Mes de inicio de la mediación.
 * **instancia (string):** Prejudicial o Judicial.
 * **fuero (string):** Fuero en el cual se inscribe. Civil, comercial o civil y comercial.
 * **objeto (string):** Se consigna el objeto de la acción.
 * **tema (string):** Familiar (alimentos, tenencia, régimen de visitas, etc.) o patrimonial (daños y perjuicios, reclamos por sumas de dinero, incumplimiento de contrato, etc.).
-* **tipoMediacion (string):** Pública (mediador por sorteo), privada (mediador elegido por las partes) o gratuita (efectuadas en el Centro de Mediación dependiente del Ministerio de Justicia y Derechos Humanos).
+* **tipo_mediacion (string):** Pública (mediador por sorteo), privada (mediador elegido por las partes) o gratuita (efectuadas en el Centro de Mediación dependiente del Ministerio de Justicia y Derechos Humanos).
 * **estado (string):** La mediación puede estar Iniciada, Anulada, Pendiente de conciliación de pago, en proceso, finalizada, desistida previo primera audiencia.
 * **resultado (string):** Los resultados posibles son: 
 	- Se medió con acuerdo parcial
