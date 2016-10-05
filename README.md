@@ -22,7 +22,7 @@ En este cuerpo de datos se detalla la cantidad de mediaciones prejudiciales y ju
 *   **Nombre:** estadistica-mediaciones-prejudiciales-y-judiciales.csv
 *   **Descripción:** Mediaciones prejudiciales y judiciales registradas en el Sistema MEPRE.
 *   **Formato:** CSV
-*   **Rango temporal:** 01/02/2014 al 30/05/2016
+*   **Rango temporal:** Desde el 01/02/2014 hasta la actualidad
 
 ###Campos del recurso
 * **anio (int):** Año de inicio de la mediación.
