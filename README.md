@@ -91,6 +91,6 @@ Recursos disponibles
 	
 -   **cantidad (int):** Cantidad de mediaciones efectuadas
 
-## Notas
+### Notas
 
 La [Ley 26.589] (http://www.jus.gob.ar/media/157534/Ley%2026589.pdf), sancionada el 15 de abril de 2010 y promulgada el 3 de mayo de 2010,  establece la obligatoriedad de la mediación previa a los procesos judiciales. 
