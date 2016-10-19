@@ -14,8 +14,6 @@ Características
 
 -   **Fecha de Publicación:** 12/07/2016
 
--   **Recurso:** Mediaciones prejudiciales y judiciales
-
 -   **Tags o Etiquetas:** Mediación, Resolución alternativa de Conflictos, prejudicial
 
 -   **Organización:** Ministerio de Justicia y Derechos Humanos. Subsecretaría de Acceso a la Justicia. Dirección Nacional de Mediación y Métodos Participativos de Resolución de Conflictos
