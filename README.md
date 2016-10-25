@@ -94,3 +94,11 @@ Recursos disponibles
 ### Notas
 
 La [Ley 26.589] (http://www.jus.gob.ar/media/157534/Ley%2026589.pdf), sancionada el 15 de abril de 2010 y promulgada el 3 de mayo de 2010,  establece la obligatoriedad de la mediación previa a los procesos judiciales. 
+
+### Consideraciones para la interpretación de los datos
+
+**Cuestiones de Consumo:** No están considerados los datos sobre conciliaciones en las relaciones de consumo (37.170 casos desde marzo de 2015 al 24 de octubre de 2016) que si bien debían ser atendidos por el fuero del consumidor, que crea la Ley N° 26.993, al haberse suspendido su implementación, hoy deben ingresar sus demandas en el fuero nacional Civil o Comercial.
+
+**Mediaciones finalizadas y en proceso:** Si bien la mediación tiene fijado un plazo ordenatorio y debe terminarse en 60 días corridos, con la posibilidad de una prórroga de otros 15, la realidad indica que por diversas situaciones suelen mantenerlas “en proceso”, sin finalizar. Así son frecuentes las esperas a que las partes: o bien se avengan a intentar nuevas audiencias; o bien se dilate, porque alguna de ellas ha tomado el compromiso de obtener un informe o dato, que sirva de parámetro para ajustar tanto la oferta como el  requerimiento, que se han empezado a negociar.
+
+**Mediaciones patrimoniales:** De estas mediaciones, el 60,9% corresponde a Daños y Perjuicios (genérico); acciones de tránsito con lesiones y/o muerte y sin lesiones. Se trata de conflictos en los cuales intervienen aseguradoras. Para ellas es muy importante el cerrar las mediaciones, a fin de evitar generar las reservas técnicas que exige la Superintendencia de Seguros de la Nación. Resulta así que en la dinámica de la mediación sea muy frecuente que una vez cerrado sin acuerdo el caso, la aseguradora continúe en tratativas directas con la parte requirente y concluya formalizando un acuerdo que se instrumenta en un documento elaborado entre ellos y no en acta de mediación.  Luego si bien estos casos no generarán demandas judiciales, no quedan contabilizados como acuerdos en la instancia de mediación. 
