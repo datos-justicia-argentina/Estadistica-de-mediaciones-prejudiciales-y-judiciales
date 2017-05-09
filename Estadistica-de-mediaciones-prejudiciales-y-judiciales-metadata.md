@@ -14,7 +14,7 @@ En este cuerpo de datos se detalla la cantidad de mediaciones prejudiciales y ju
 Características
 ---------------
 
--   **Fecha de Publicación:** 12/07/2016
+-   **Fecha de Primera Publicación:** 12/07/2016
 
 -   **Tags o Etiquetas:** mediación, resolución alternativa de conflictos, prejudicial
 
