@@ -37,9 +37,9 @@ Recursos disponibles
 
 -   **Descripción del contenido:** Mediaciones prejudiciales y judiciales registradas en el Sistema MEPRE
 
--   **Formato:** CSV
+-   **Formato:** CSV delimitado por comas, codificado en UTF-8
 
--   **Rango temporal:** Desde el 01/02/2014 hasta la actualidad
+-   **Rango temporal:** Listado actualizado a la fecha consignada como "Datos actualizados al"
 
 ### Campos del recurso
 
