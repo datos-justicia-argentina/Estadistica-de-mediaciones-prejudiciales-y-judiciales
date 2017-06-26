@@ -47,7 +47,7 @@ Recursos disponibles
 
 -   **mes (int):** mes de inicio de la mediación
 
--   **instancia (string):** prejudicial o Judicial
+-   **instancia (string):** prejudicial o judicial
 
 -   **fuero (string):** fuero en el cual se inscribe. Civil, comercial o civil y comercial
 
