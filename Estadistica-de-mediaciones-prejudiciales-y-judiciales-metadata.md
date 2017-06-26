@@ -35,31 +35,31 @@ Recursos disponibles
 
 -   **Nombre del archivo:** estadistica-mediaciones-prejudiciales-y-judiciales.csv
 
--   **Descripción del contenido:** Mediaciones prejudiciales y judiciales registradas en el Sistema MEPRE
+-   **Descripción del contenido:** mediaciones prejudiciales y judiciales registradas en el Sistema MEPRE
 
 -   **Formato:** CSV delimitado por comas, codificado en UTF-8
 
--   **Rango temporal:** Listado actualizado a la fecha consignada como "Datos actualizados al"
+-   **Rango temporal:** listado actualizado a la fecha consignada como "Datos actualizados al"
 
 ### Campos del recurso
 
--   **anio (int):** Año de inicio de la mediación
+-   **anio (int):** año de inicio de la mediación
 
--   **mes (int):** Mes de inicio de la mediación
+-   **mes (int):** mes de inicio de la mediación
 
--   **instancia (string):** Prejudicial o Judicial
+-   **instancia (string):** prejudicial o Judicial
 
--   **fuero (string):** Fuero en el cual se inscribe. Civil, comercial o civil y comercial
+-   **fuero (string):** fuero en el cual se inscribe. Civil, comercial o civil y comercial
 
--   **objeto (string):** Se consigna el objeto de la acción
+-   **objeto (string):** se consigna el objeto de la acción
 
--   **tema (string):** Familiar (alimentos, tenencia, régimen de visitas, etc.) o patrimonial (daños y perjuicios, reclamos por sumas de dinero, incumplimiento de contrato, etc.)
+-   **tema (string):** familiar (alimentos, tenencia, régimen de visitas, etc.) o patrimonial (daños y perjuicios, reclamos por sumas de dinero, incumplimiento de contrato, etc.)
 
--   **tipo_mediacion (string):** Pública (mediador por sorteo), privada (mediador elegido por las partes) o gratuita (efectuadas en el Centro de Mediación dependiente del Ministerio de Justicia y Derechos Humanos)
+-   **tipo_mediacion (string):** pública (mediador por sorteo), privada (mediador elegido por las partes) o gratuita (efectuadas en el Centro de Mediación dependiente del Ministerio de Justicia y Derechos Humanos)
 
--   **estado (string):** La mediación puede estar Iniciada, Anulada, Pendiente de conciliación de pago, en proceso, finalizada, desistida previo primera audiencia
+-   **estado (string):** la mediación puede estar Iniciada, Anulada, Pendiente de conciliación de pago, en proceso, finalizada, desistida previo primera audiencia
 
--   **resultado (string):** Los resultados posibles son: 
+-   **resultado (string):** los resultados posibles son: 
 
 	- Se medió con acuerdo parcial
 	
@@ -89,7 +89,7 @@ Recursos disponibles
 	
 	- No se medió por plantearse la recusación al Mediador
 	
--   **cantidad (int):** Cantidad de mediaciones efectuadas
+-   **cantidad (int):** cantidad de mediaciones efectuadas
 
 ### Notas
 
