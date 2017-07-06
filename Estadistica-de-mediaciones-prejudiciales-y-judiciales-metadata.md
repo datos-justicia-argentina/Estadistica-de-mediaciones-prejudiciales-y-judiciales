@@ -33,9 +33,9 @@ Recursos disponibles
 
 ### Estadística de Mediaciones prejudiciales y judiciales
 
--   **Nombre del archivo:** estadistica-mediaciones-prejudiciales-y-judiciales.csv
+-   **Nombre del archivo:** estadistica-mediaciones-prejudiciales-y-judiciales-aaaa-mm.csv
 
--   **Descripción del contenido:** mediaciones prejudiciales y judiciales registradas en el Sistema MEPRE
+-   **Descripción del contenido:** mediaciones prejudiciales y judiciales registradas en el Sistema MEPRE hasta el año aaaa y mes mm incluidos
 
 -   **Formato:** CSV delimitado por comas, codificado en UTF-8
 
