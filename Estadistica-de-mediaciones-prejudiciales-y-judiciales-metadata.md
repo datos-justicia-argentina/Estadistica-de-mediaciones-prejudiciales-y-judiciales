@@ -1,4 +1,4 @@
-Estadística de Mediaciones Prejudiciales y Judiciales. Ley 26.589
+Estadística de mediaciones prejudiciales y judiciales. Ley 26.589
 =================================================================
 
 La mediación es un método que permite la resolución de los conflictos de manera pacífica, a través del diálogo, en el que el mediador como tercero neutral acompaña a las partes para que, como protagonistas del procedimiento, encuentren las soluciones que les resulten más beneficiosas a sus intereses.
