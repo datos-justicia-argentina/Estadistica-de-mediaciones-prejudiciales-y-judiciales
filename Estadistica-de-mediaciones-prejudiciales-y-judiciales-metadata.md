@@ -31,7 +31,7 @@ Características
 Recursos disponibles
 --------------------
 
-### Estadística de Mediaciones prejudiciales y judiciales
+### Estadística de mediaciones prejudiciales y judiciales
 
 -   **Nombre del archivo:** estadistica-mediaciones-prejudiciales-y-judiciales-aaaa-mm.csv
 
