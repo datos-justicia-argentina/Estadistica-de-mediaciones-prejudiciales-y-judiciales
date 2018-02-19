@@ -3,7 +3,7 @@ Estadística de mediaciones prejudiciales y judiciales. Ley 26.589
 
 La mediación es un método que permite la resolución de los conflictos de manera pacífica, a través del diálogo, en el que el mediador como tercero neutral acompaña a las partes para que, como protagonistas del procedimiento, encuentren las soluciones que les resulten más beneficiosas a sus intereses.
 
-La  [Ley 26.589] (http://www.jus.gob.ar/media/157534/Ley%2026589.pdf), de mediación previa obligatoria, rige en los tribunales nacionales de la Ciudad Autónoma de Buenos Aires y en los juzgados federales del interior del país, aunque su operatividad está en suspenso en estos últimos, en tanto se la habilite en cada una de las jurisdicciones, tal como lo prescribe el art. 43 de la citada ley.
+La  [Ley 26.589](http://www.jus.gob.ar/media/157534/Ley%2026589.pdf), de mediación previa obligatoria, rige en los tribunales nacionales de la Ciudad Autónoma de Buenos Aires y en los juzgados federales del interior del país, aunque su operatividad está en suspenso en estos últimos, en tanto se la habilite en cada una de las jurisdicciones, tal como lo prescribe el art. 43 de la citada ley.
 
 Las mediaciones pueden ser públicas, donde el mediador es sorteado por la cámara correspondiente, o privadas, donde el mediador es elegido por las partes a propuesta de quien inicia el reclamo. En ambos casos el mediador debe estar matriculado en el Registro Nacional de Mediación. El acuerdo de partes en una mediación es asimilable en sus efectos a la cosa juzgada. Si no se llegase a un acuerdo, el acta de mediación habilita la vía judicial. 
 
