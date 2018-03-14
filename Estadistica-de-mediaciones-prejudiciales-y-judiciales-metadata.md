@@ -41,7 +41,7 @@ Recursos disponibles
 
 -   **Formato:** CSV delimitado por comas, codificado en UTF-8
 
--   **Rango temporal:** listado actualizado a la fecha consignada como "Datos actualizados al"
+-   **Rango temporal:** estadística de mediaciones prejudiciales y judiciales desde febrero de 2014 hasta la fecha consignada como "Datos actualizados al"
 
 ### Campos del recurso
 
@@ -95,7 +95,7 @@ Recursos disponibles
 
 ### Notas
 
-La [Ley 26.589] (http://www.jus.gob.ar/media/157534/Ley%2026589.pdf), sancionada el 15 de abril de 2010 y promulgada el 3 de mayo de 2010,  establece la obligatoriedad de la mediación previa a los procesos judiciales. 
+La [Ley 26.589](http://www.jus.gob.ar/media/157534/Ley%2026589.pdf), sancionada el 15 de abril de 2010 y promulgada el 3 de mayo de 2010,  establece la obligatoriedad de la mediación previa a los procesos judiciales. 
 
 ### Consideraciones para la interpretación de los datos
 
@@ -104,3 +104,5 @@ La [Ley 26.589] (http://www.jus.gob.ar/media/157534/Ley%2026589.pdf), sancionada
 **Mediaciones finalizadas y en proceso:** Si bien la mediación tiene fijado un plazo ordenatorio y debe terminarse en 60 días corridos, con la posibilidad de una prórroga de otros 15, la realidad indica que por diversas situaciones suelen mantenerlas “en proceso”, sin finalizar. Así son frecuentes las esperas a que las partes: o bien se avengan a intentar nuevas audiencias; o bien se dilate, porque alguna de ellas ha tomado el compromiso de obtener un informe o dato, que sirva de parámetro para ajustar tanto la oferta como el  requerimiento, que se han empezado a negociar.
 
 **Mediaciones patrimoniales:** De estas mediaciones, el 60,9% corresponde a Daños y Perjuicios (genérico); acciones de tránsito con lesiones y/o muerte y sin lesiones. Se trata de conflictos en los cuales intervienen aseguradoras. Para ellas es muy importante el cerrar las mediaciones, a fin de evitar generar las reservas técnicas que exige la Superintendencia de Seguros de la Nación. Resulta así que en la dinámica de la mediación sea muy frecuente que una vez cerrado sin acuerdo el caso, la aseguradora continúe en tratativas directas con la parte requirente y concluya formalizando un acuerdo que se instrumenta en un documento elaborado entre ellos y no en acta de mediación.  Luego si bien estos casos no generarán demandas judiciales, no quedan contabilizados como acuerdos en la instancia de mediación. 
+
+Este Conjunto de datos es publicado en el Portal de Datos Abiertos de la Justicia Argentina mediante [Resolución Nº 482 del Ministerio de Justicia y Derechos Humanos](http://datos.jus.gob.ar/resoluciones/RESOL-2017-482-APN-MJ.pdf), del 26 de Junio de 2017.
