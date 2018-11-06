@@ -103,6 +103,8 @@ Recursos disponibles
 
 ### Notas
 
+[Ley 27.275 - Derecho de Acceso a la Información Pública]( http://servicios.infoleg.gob.ar/infolegInternet/anexos/265000-269999/265949/norma.htm)
+
 La [Ley 26.589](http://www.jus.gob.ar/media/157534/Ley%2026589.pdf), sancionada el 15 de abril de 2010 y promulgada el 3 de mayo de 2010,  establece la obligatoriedad de la mediación previa a los procesos judiciales. 
 
 ### Consideraciones para la interpretación de los datos
