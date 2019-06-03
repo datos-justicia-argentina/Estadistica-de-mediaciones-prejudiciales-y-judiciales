@@ -33,9 +33,9 @@ Características
 Recursos disponibles
 --------------------
 
-### Estadística de mediaciones prejudiciales y judiciales
+### Estadística de mediaciones prejudiciales y judiciales - AAAAMM
 
--   **Nombre del archivo:** estadistica-mediaciones-prejudiciales-y-judiciales-aaaa-mm.csv
+-   **Nombre del archivo:** estadistica-mediaciones-prejudiciales-y-judiciales-aaaamm.csv
 
 -   **Descripción del contenido:** detalle de las mediaciones prejudiciales y judiciales registradas en el Sistema MEPRE hasta el año (AAAA) y mes (MM) incluidos
 
