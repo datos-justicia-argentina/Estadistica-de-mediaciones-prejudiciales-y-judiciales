@@ -20,11 +20,11 @@ Características
 
 -   **Tags o Etiquetas:** mediaciones, resolución alternativa de conflictos, prejudiciales
 
--   **Organización:** Ministerio de Justicia y Derechos Humanos. Subsecretaría de Acceso a la Justicia. Dirección Nacional de Mediación y Métodos Participativos de Resolución de Conflictos
+-   **Organización:** Ministerio de Justicia. Subsecretaría de Acceso a la Justicia. Dirección Nacional de Mediación y Métodos Participativos de Resolución de Conflictos
 
--   **Autor:** Ministerio de Justicia y Derechos Humanos. Subsecretaría de Acceso a la Justicia. Dirección Nacional de Mediación y Métodos Participativos de Resolución de Conflictos
+-   **Autor:** Ministerio de Justicia. Subsecretaría de Acceso a la Justicia. Dirección Nacional de Mediación y Métodos Participativos de Resolución de Conflictos
 
--   **Responsable:** Ministerio de Justicia y Derechos Humanos. Subsecretaría de Acceso a la Justicia. Dirección Nacional de Mediación y Métodos Participativos de Resolución de Conflictos
+-   **Responsable:** Ministerio de Justicia. Subsecretaría de Acceso a la Justicia. Dirección Nacional de Mediación y Métodos Participativos de Resolución de Conflictos
 
 -   **Grupo:** Acceso a la Justicia
 
@@ -57,7 +57,7 @@ Recursos disponibles
 
 -   **tema (string):** familiar (alimentos, tenencia, régimen de visitas, etc.) o patrimonial (daños y perjuicios, reclamos por sumas de dinero, incumplimiento de contrato, etc.)
 
--   **tipo_mediacion (string):** pública (mediador por sorteo), privada (mediador elegido por las partes) o gratuita (efectuadas en el Centro de Mediación dependiente del Ministerio de Justicia y Derechos Humanos)
+-   **tipo_mediacion (string):** pública (mediador por sorteo), privada (mediador elegido por las partes) o gratuita (efectuadas en el Centro de Mediación dependiente del Ministerio de Justicia)
 
 -   **estado (string):** la mediación puede estar Iniciada, Anulada, Pendiente de conciliación de pago, en proceso, finalizada, desistida previo primera audiencia
 
@@ -115,4 +115,4 @@ La [Ley 26.589](http://www.jus.gob.ar/media/157534/Ley%2026589.pdf), sancionada 
 
 **Mediaciones patrimoniales:** De estas mediaciones, el 60,9% corresponde a Daños y Perjuicios (genérico); acciones de tránsito con lesiones y/o muerte y sin lesiones. Se trata de conflictos en los cuales intervienen aseguradoras. Para ellas es muy importante el cerrar las mediaciones, a fin de evitar generar las reservas técnicas que exige la Superintendencia de Seguros de la Nación. Resulta así que en la dinámica de la mediación sea muy frecuente que una vez cerrado sin acuerdo el caso, la aseguradora continúe en tratativas directas con la parte requirente y concluya formalizando un acuerdo que se instrumenta en un documento elaborado entre ellos y no en acta de mediación.  Luego si bien estos casos no generarán demandas judiciales, no quedan contabilizados como acuerdos en la instancia de mediación. 
 
-Este Conjunto de datos es publicado en el Portal de Datos Abiertos de la Justicia Argentina mediante [Resolución Nº 482 del Ministerio de Justicia y Derechos Humanos](http://datos.jus.gob.ar/resoluciones/RESOL-2017-482-APN-MJ.pdf), del 26 de Junio de 2017.
+Este Conjunto de datos es publicado en el Portal de Datos Abiertos de la Justicia Argentina mediante [Resolución Nº 482 del Ministerio de Justicia](http://datos.jus.gob.ar/resoluciones/RESOL-2017-482-APN-MJ.pdf), del 26 de Junio de 2017.
